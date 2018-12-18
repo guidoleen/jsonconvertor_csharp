@@ -1,0 +1,12 @@
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\bin\Debug\netstandard2.0\JsonObjectConvertor.deps.json
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\bin\Debug\netstandard2.0\JsonObjectConvertor.dll
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\bin\Debug\netstandard2.0\JsonObjectConvertor.pdb
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\bin\Debug\netstandard2.0\Newtonsoft.Json.pdb
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\obj\Debug\netstandard2.0\JsonObjectConvertor.csproj.CoreCompileInputs.cache
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\obj\Debug\netstandard2.0\JsonObjectConvertor.AssemblyInfoInputs.cache
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\obj\Debug\netstandard2.0\JsonObjectConvertor.AssemblyInfo.cs
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\obj\Debug\netstandard2.0\JsonObjectConvertor.csproj.CopyComplete
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\obj\Debug\netstandard2.0\JsonObjectConvertor.dll
+C:\Users\guido_leen\source\repos\JsonObjectConvertor\JsonObjectConvertor\obj\Debug\netstandard2.0\JsonObjectConvertor.pdb
