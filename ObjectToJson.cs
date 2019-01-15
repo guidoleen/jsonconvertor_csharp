@@ -19,6 +19,11 @@ namespace JsonObjectConvertor
         public String setToJsonString()
         {
             string output = JsonConvert.SerializeObject(this.obj, Formatting.Indented).ToString();
+
+            output = output.Replace("\r\n", String.Empty);
+            output = output.Replace("\\", String.Empty);
+            // output = new RemoveCharFromString().getRemoveCharFromString(output.ToCharArray(), '\\');
+
             return output;
         }
     }
